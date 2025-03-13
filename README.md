@@ -7,7 +7,3 @@ Gestion et organisation du développement d'une API de création de menus person
 
 ![Capture11](https://github.com/user-attachments/assets/2c9f3d7d-d86f-4ded-a393-3ac2e41a2f9a)
 
-![Capture02](https://github.com/user-attachments/assets/d48a3f35-d6b6-4656-98f8-8cfdbeb379dc)
-
-![Capture02](https://github.com/user-attachments/assets/4a40215a-9c50-4614-ba6c-8f35f9b33e0a)
-
